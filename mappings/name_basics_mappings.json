@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "properties": {
+      "tconst": {
+        "type": "text"
+      },
+      "primaryName": {
+        "type": "integer"
+      },
+      "birthYear": {
+        "type": "text"
+      },
+      "deathYear": {
+        "type": "integer"
+      },
+      "primaryProfession": {
+        "type": "text"
+      },
+      "knownForTitles": {
+        "type": "text"
+      }
+    }
+  }
+}

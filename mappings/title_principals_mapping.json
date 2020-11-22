@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "properties": {
+      "tconst": {
+        "type": "text"
+      },
+      "ordering": {
+        "type": "integer"
+      },
+      "nconst": {
+        "type": "text"
+      },
+      "category": {
+        "type": "text"
+      },
+      "job": {
+        "type": "text"
+      },
+      "character": {
+        "type": "text"
+      }
+    }
+  }
+}

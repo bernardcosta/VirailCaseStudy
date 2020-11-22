@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "properties": {
+      "tconst": {
+        "type": "text"
+      },
+      "averageRating": {
+        "type": "float"
+      },
+      "numVotes": {
+        "type": "integer"
+      }
+    }
+  }
+}

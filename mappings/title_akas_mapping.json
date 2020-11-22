@@ -1,0 +1,30 @@
+{
+  "mappings": {
+    "properties": {
+      "titleId": {
+        "type": "text"
+      },
+      "ordering": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "text"
+      },
+      "region": {
+        "type": "text"
+      },
+      "language": {
+        "type": "text"
+      },
+      "types": {
+        "type": "text"
+      },
+      "attributes": {
+        "type": "text"
+      },
+      "isOriginalTitle": {
+        "type": "integer"
+      }
+    }
+  }
+}

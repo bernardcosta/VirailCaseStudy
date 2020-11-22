@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "properties": {
+      "tconst": {
+        "type": "text"
+      },
+      "parentTconst": {
+        "type": "text"
+      },
+      "seasonNumber": {
+        "type": "integer"
+      },
+      "episodeNumber": {
+        "type": "integer"
+      }
+    }
+  }
+}
