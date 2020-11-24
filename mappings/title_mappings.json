@@ -1,0 +1,58 @@
+{
+  "mappings": {
+    "properties": {
+      "endYear": {
+        "type": "date",
+        "format": "YYYY",
+        "null_value": "0000"
+      },
+      "genres": {
+        "type": "text"
+      },
+      "isAdult": {
+        "type": "text"
+      },
+      "originalTitle": {
+        "type": "text"
+      },
+      "primaryTitle": {
+        "type": "text"
+      },
+      "runtimeMinutes": {
+        "type": "text"
+      },
+      "startYear": {
+        "type": "date",
+        "format": "YYYY",
+        "null_value": "0000"
+      },
+      "tconst": {
+        "type": "text"
+      },
+      "titleType": {
+        "type": "text"
+      },
+      "akas.ordering": {
+        "type": "text"
+      },
+      "akas.title": {
+        "type": "text"
+      },
+      "akas.region": {
+        "type": "text"
+      },
+      "akas.language": {
+        "type": "text"
+      },
+      "akas.types": {
+        "type": "text"
+      },
+      "akas.attributes": {
+        "type": "text"
+      },
+      "akas.isOriginalTitle": {
+        "type": "text"
+      }
+    }
+  }
+}
